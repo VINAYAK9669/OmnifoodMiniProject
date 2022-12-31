@@ -17,4 +17,4 @@ Javascript, HTML, CSS
 
 ## Layout on different devices
 ### Desktops
-<img src="..ReadmeImg.Desktop.PNG" alt="Desktop Layout">
+<img src="../ReadmeImg.Desktop.PNG" alt="Desktop Layout">
