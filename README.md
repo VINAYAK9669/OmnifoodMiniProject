@@ -16,3 +16,5 @@ there own diet thorought the year.
 Javascript, HTML, CSS
 
 ## Layout on different devices
+### Desktops
+<img src="..ReadmeImg.Desktop.PNG" alt="Desktop Layout">
