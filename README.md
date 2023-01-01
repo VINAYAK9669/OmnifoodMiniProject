@@ -10,11 +10,11 @@ there own diet thorought the year.
 - Better Visual Effects
 - Implemented-smooth scrolling & sticky bar
 - Supported to any browsers (Chrome, Edge, Safari....) (latest version)
-- Supported to any devices
+- Supported to any devices ( mobies, talets, mini laptop, laptops)
+- Taken care of image quality and color contrast ratio
 
 ## 🛠 Skills
 Javascript, HTML, CSS
 
-## Layout on different devices
-### Desktops
-<img src="./ReadmeImg.Desktop.PNG" alt="Desktop Layout">
+
+
