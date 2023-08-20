@@ -14,7 +14,7 @@ there own diet thorought the year.
 - Taken care of image quality and color contrast ratio
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+Javascript, HTML, CSs
 
 
 
