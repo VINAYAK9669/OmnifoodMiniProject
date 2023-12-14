@@ -17,7 +17,7 @@ there own diet thorought the year.
 Javascript, HTML, CSs
 
 ## Demo
-[Click Here to view the demo](https://lnkd.in/gQWEHAmE)
+[Click Here to view the demo](https://zippy-hamster-dbabc9.netlify.app/)
 
 
 
