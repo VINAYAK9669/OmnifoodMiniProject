@@ -1,9 +1,5 @@
 # OminiFood
-Healthy foods assist a person in enhancing the physical 
-and mental well-being. These foods are full of nourishment 
-and enhance growth. But now a days we are not concentrating 
-on diet. Hence our OminiFood brought 5000+ healthy recipes, user can plan 
-there own diet thorought the year.
+Food ordering app showcasing my skills in HTML, CSS, and JavaScript for animations. Mastered web development principles, implementing techniques like flexbox, grid, positioning, transformations, and layouts with precision. 🚀
 
 ## Features
 
